@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="100" fill="#121212"/>
+  <path d="M128 184L256 112L384 184V328L256 400L128 328V184Z" stroke="#FF00FF" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M256 112V232" stroke="#FF00FF" stroke-width="12"/>
+  <path d="M384 184L256 232" stroke="#FF00FF" stroke-width="12"/>
+  <path d="M128 184L256 232" stroke="#FF00FF" stroke-width="12"/>
+  <path d="M256 400V280" stroke="#FF00FF" stroke-width="12"/>
+  <path d="M384 328L256 280" stroke="#FF00FF" stroke-width="12"/>
+  <path d="M128 328L256 280" stroke="#FF00FF" stroke-width="12"/>
+  <circle cx="256" cy="112" r="16" fill="#FF00FF"/>
+  <circle cx="256" cy="232" r="16" fill="#FF00FF"/>
+  <circle cx="256" cy="280" r="16" fill="#FF00FF"/>
+  <circle cx="256" cy="400" r="16" fill="#FF00FF"/>
+  <circle cx="128" cy="184" r="16" fill="#FF00FF"/>
+  <circle cx="128" cy="328" r="16" fill="#FF00FF"/>
+  <circle cx="384" cy="184" r="16" fill="#FF00FF"/>
+  <circle cx="384" cy="328" r="16" fill="#FF00FF"/>
+</svg>
